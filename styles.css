@@ -1,0 +1,68 @@
+body{
+    background-color: #71df6d;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:30px;
+  }
+  #Home{
+    background-image: url('https://i.gifer.com/mqi.gif');
+    background-size: cover;
+    font-style:'sans-serif';
+    height: 500px;
+  }
+  h3{
+    color: #e207bd;
+    text-align: center;
+    text-shadow: 2px 2px 2px grey;
+  }
+  nav>ul>li{
+    display: inline;          
+    
+  }
+  nav{
+    padding: 10px;
+  }
+  nav>ul>li>a{
+    text-decoration:none;
+    padding:30px;
+    color:blue;
+  }
+  
+  nav>ul>li>a:hover{
+    background: grey;
+    color : golden yellow;
+  }
+  nav>ul{
+    text-align: right;
+    margin-right:0;
+  }
+  #Home{
+    color: blue;
+  
+  }
+  h5{
+    color: red;
+  }
+  #operation{
+    color: blue;
+  }
+  footer{
+        background-color: lightblue;
+        float: right;
+        position :relative;
+        bottom:30px;
+  }
+  table,th,td{
+        border: 2px  solid green;
+        border-collapse: collapse;
+  } 
+  p{
+    margin:10px 90px 10px 90px;
+    padding:5px 10px 10px 10px;
+  }
+  img{
+    width:900px;
+    height:900px;
+    border:2px solid green;
+  }
+  
+  
